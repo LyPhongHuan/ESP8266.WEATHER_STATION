@@ -1,0 +1,23 @@
+Added Component: Designator=LCD1(UC1601_LCD)
+Added Pin To Net: NetName=CS Pin=LCD1-3
+Added Pin To Net: NetName=RST Pin=LCD1-4
+Added Pin To Net: NetName=DC Pin=LCD1-5
+Added Pin To Net: NetName=RW Pin=LCD1-6
+Added Pin To Net: NetName=+3.3V Pin=LCD1-7
+Added Pin To Net: NetName=CLK Pin=LCD1-8
+Added Pin To Net: NetName=DAT Pin=LCD1-11
+Added Pin To Net: NetName=GND Pin=LCD1-16
+Added Pin To Net: NetName=GND Pin=LCD1-17
+Added Pin To Net: NetName=+3.3V Pin=LCD1-18
+Added Pin To Net: NetName=GND Pin=LCD1-19
+Added Pin To Net: NetName=NetC1_1 Pin=LCD1-20
+Added Pin To Net: NetName=NetC1_2 Pin=LCD1-21
+Added Pin To Net: NetName=NetC0_1 Pin=LCD1-22
+Added Pin To Net: NetName=NetC0_2 Pin=LCD1-23
+Added Pin To Net: NetName=NetC2_2 Pin=LCD1-29
+Added Pin To Net: NetName=GND Pin=LCD1-K
+Added Pin To Net: NetName=NetLCD1_A Pin=LCD1-A
+Added Pin To Net: NetName=NetLCD1_A Pin=R8-2
+Added Pin To Net: NetName=NetLCD1_A Pin=ZD1-K
+Added Net: Name=NetLCD1_A
+Added Member To Class: ClassName=Sheet1 Member=Component LCD1 UC1601_12864

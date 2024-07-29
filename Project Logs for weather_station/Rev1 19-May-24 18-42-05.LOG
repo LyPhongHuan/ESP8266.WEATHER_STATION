@@ -1,0 +1,15 @@
+Added Component: Designator=IC2(SO-16)
+Added Pin To Net: NetName=NetD3_K Pin=IC2-2
+Added Pin To Net: NetName=GND Pin=IC2-5
+Added Pin To Net: NetName=GND Pin=IC2-6
+Added Pin To Net: NetName=GND Pin=IC2-7
+Added Pin To Net: NetName=GND Pin=IC2-8
+Added Pin To Net: NetName=GND Pin=IC2-9
+Added Pin To Net: NetName=GND Pin=IC2-10
+Added Pin To Net: NetName=GND Pin=IC2-11
+Added Pin To Net: NetName=GND Pin=IC2-12
+Added Pin To Net: NetName=GND Pin=IC2-13
+Added Pin To Net: NetName=NetD2_K Pin=IC2-14
+Added Pin To Net: NetName=SDA Pin=IC2-15
+Added Pin To Net: NetName=SCL Pin=IC2-16
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 DS3231

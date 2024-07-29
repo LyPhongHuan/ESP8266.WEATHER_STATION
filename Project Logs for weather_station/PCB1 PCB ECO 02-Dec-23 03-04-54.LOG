@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetC8_1 Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Change Component Footprint: Designator=C8 Old Footprint=cap_A_SMD 10uF/16V New Footprint=CN-SMD-0805
+Change Component Footprint: Designator=BAT1 Old Footprint=CR2032_SMD New Footprint=CR2032_h
+Change Component Comment : Designator=C8 Old Comment=10uF New Comment=1uF
+Change component parameters: Designator = "C8" ("C8"); Footprint = "cap_A_SMD 10uF/16V"; UniqueID = "\LFLMMAOD" ("\LFLMMAOD")
+Change component parameters (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-2
+Change Net Name : Old Net Name=NetC8_1 New Net Name=NetC8_2
+Added Member To Class: ClassName=Sheet1 Member=Component U3 TP4056

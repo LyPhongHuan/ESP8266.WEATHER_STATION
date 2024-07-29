@@ -1,0 +1,39 @@
+Added Component: Designator=C?(CN-SMD-0805)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CN-SMD-0805)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CN-SMD-0805)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CN-SMD-0805)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=L?(L-SMD-06030-7.4x6.6X3)
+Add component (AddParameter): Name = "Value"; Value = "150 mH"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT-223)
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=+3.3V Pin=C?-2
+Added Pin To Net: NetName=+3.3V Pin=C?-2
+Added Pin To Net: NetName=CLK Pin=IC1-7
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=+3.3V Pin=U?-2
+Added Pin To Net: NetName=+3.3V Pin=U?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=L?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U?-3
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=Vin Pin=L?-1
+Added Net: Name=Vin
+Added Member To Class: ClassName=Sheet1 Member=Component C? 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component L? 2.2uH
+Added Member To Class: ClassName=Sheet1 Member=Component U? SHT30
+Added Member To Class: ClassName=Sheet1 Member=Component U? AMS1117-5V/3.3V

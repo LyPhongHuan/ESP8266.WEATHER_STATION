@@ -1,0 +1,177 @@
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=+3.3V Pin=C8-2
+Removed Pin From Net: NetName=+3.3V Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=J?-A1/B12
+Removed Pin From Net: NetName=+5V Pin=J?-A4/B9
+Removed Pin From Net: NetName=GND Pin=J?-B1/A12
+Removed Pin From Net: NetName=+5V Pin=J?-B4/A9
+Removed Pin From Net: NetName=GND Pin=J?-S1
+Removed Pin From Net: NetName=GND Pin=J?-S2
+Removed Pin From Net: NetName=GND Pin=J?-S3
+Removed Pin From Net: NetName=GND Pin=J?-S4
+Removed Member From Class: ClassName=Sheet1 Member=J?
+Change Component Footprint: Designator=C8 Old Footprint=CN-SMD-0805 New Footprint=cap_A_SMD 10uF/16V
+Change Component Footprint: Designator=C5 Old Footprint=Header2 New Footprint=cap_A_SMD 10uF/16V
+Change Component Comment : Designator=C6 Old Comment=0.1uF New Comment=1uF
+Change Component Comment : Designator=C9 Old Comment=0.1uF New Comment=1uF
+Change Component Comment : Designator=C10 Old Comment=1uF New Comment=0.1uF
+Change Component Comment : Designator=C8 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C5 Old Comment=Header2 New Comment=10uF
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CN-SMD-0805"; UniqueID = "\LLNCJHZQ" ("\LLNCJHZQ")
+Change component parameters: Designator = "C5" ("C5"); Footprint = "Header2"; UniqueID = "\WRRKWUOU" ("\WRRKWUOU")
+Added Component: Designator=C11(CN-SMD-0805)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=D1(DO-214AC(SMA))
+Add component (AddParameter): Name = "Value"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SOD123)
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(SOIC-16)
+Added Component: Designator=J1(GCT_USB4105-GF-A)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/USB4110-GF-A/Global%20Connector%20Technology/view-part/4001167/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "GCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB4110-GF-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/USB4110-GF-A/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USB4110-GF-A/Global%20Connector%20Technology/view-part/4001167/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=JP2(CON2)
+Add component (AddParameter): Name = "Value"; Value = "Connector 2"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(SM-LED-0805-Green)
+Added Component: Designator=LED2(SM-LED-0805-Red)
+Added Component: Designator=R16(RES-SMD-1206)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOP-8)
+Added Component: Designator=U4(SOT23-6)
+Added Pin To Net: NetName=+3.3V Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=+3.3V Pin=C11-2
+Added Pin To Net: NetName=RW Pin=IC1-16
+Added Pin To Net: NetName=+3.3V Pin=IC2-2
+Added Pin To Net: NetName=GND Pin=IC2-5
+Added Pin To Net: NetName=GND Pin=IC2-6
+Added Pin To Net: NetName=GND Pin=IC2-7
+Added Pin To Net: NetName=GND Pin=IC2-8
+Added Pin To Net: NetName=GND Pin=IC2-9
+Added Pin To Net: NetName=GND Pin=IC2-10
+Added Pin To Net: NetName=GND Pin=IC2-11
+Added Pin To Net: NetName=GND Pin=IC2-12
+Added Pin To Net: NetName=GND Pin=IC2-13
+Added Pin To Net: NetName=SDA Pin=IC2-15
+Added Pin To Net: NetName=SCL Pin=IC2-16
+Added Pin To Net: NetName=GND Pin=J1-A1/B12
+Added Pin To Net: NetName=+5V Pin=J1-A4/B9
+Added Pin To Net: NetName=GND Pin=J1-B1/A12
+Added Pin To Net: NetName=+5V Pin=J1-B4/A9
+Added Pin To Net: NetName=GND Pin=J1-S1
+Added Pin To Net: NetName=GND Pin=J1-S2
+Added Pin To Net: NetName=GND Pin=J1-S3
+Added Pin To Net: NetName=GND Pin=J1-S4
+Added Pin To Net: NetName=GND Pin=JP2-2
+Added Pin To Net: NetName=RW Pin=R5-2
+Added Pin To Net: NetName=+5V Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=GND Pin=R21-2
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=NetBat1_1 Pin=D2-A
+Added Net: Name=NetBat1_1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=C6-2
+Added Pin To Net: NetName=NetC5_1 Pin=R17-1
+Added Pin To Net: NetName=NetC5_1 Pin=U1-3
+Added Pin To Net: NetName=NetC5_1 Pin=D1-2
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=LED1-1
+Added Pin To Net: NetName=NetC8_1 Pin=LED2-1
+Added Pin To Net: NetName=NetC8_1 Pin=R16-2
+Added Pin To Net: NetName=NetC8_1 Pin=U3-4
+Added Pin To Net: NetName=NetC8_1 Pin=U3-8
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetD1_A Pin=L1-2
+Added Pin To Net: NetName=NetD1_A Pin=U4-1
+Added Pin To Net: NetName=NetD1_A Pin=D1-1
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD2_K Pin=D2-K
+Added Pin To Net: NetName=NetD2_K Pin=IC2-14
+Added Net: Name=NetD2_K
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R18-1
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R19-1
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=R20-1
+Added Pin To Net: NetName=NetR17_2 Pin=U4-3
+Added Net: Name=NetR17_2
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=NetR18_2 Pin=U3-6
+Added Net: Name=NetR18_2
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=NetR19_2 Pin=U3-7
+Added Net: Name=NetR19_2
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_1 Pin=U3-2
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=VBat Pin=C9-2
+Added Pin To Net: NetName=VBat Pin=JP2-1
+Added Pin To Net: NetName=VBat Pin=L1-1
+Added Pin To Net: NetName=VBat Pin=U3-5
+Added Pin To Net: NetName=VBat Pin=U4-4
+Added Pin To Net: NetName=VBat Pin=U4-5
+Added Net: Name=VBat
+Added Member To Class: ClassName=Sheet1 Member=Component C11 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component D1 SS34
+Added Member To Class: ClassName=Sheet1 Member=Component D2
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 DS3231
+Added Member To Class: ClassName=Sheet1 Member=Component J1 USB4110-GF-A_REVB
+Added Member To Class: ClassName=Sheet1 Member=Component JP2 BAT
+Added Member To Class: ClassName=Sheet1 Member=Component LED1 GREEN
+Added Member To Class: ClassName=Sheet1 Member=Component LED2 RED
+Added Member To Class: ClassName=Sheet1 Member=Component R16 0.04R
+Added Member To Class: ClassName=Sheet1 Member=Component R17 1.2K
+Added Member To Class: ClassName=Sheet1 Member=Component R18 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R19 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R20 1.2K
+Added Member To Class: ClassName=Sheet1 Member=Component R21 1.2K
+Added Member To Class: ClassName=Sheet1 Member=Component U3 TP4056
+Added Member To Class: ClassName=Sheet1 Member=Component U4 MT3068

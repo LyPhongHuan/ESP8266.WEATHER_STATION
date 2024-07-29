@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=LED_PWM Pin=CONN1-1
+Removed Pin From Net: NetName=Rx Pin=CONN1-2
+Removed Pin From Net: NetName=BOOT Pin=CONN1-3
+Removed Pin From Net: NetName=nRST Pin=CONN1-4
+Removed Pin From Net: NetName=+3.3V Pin=CONN1-5
+Removed Pin From Net: NetName=GND Pin=CONN1-6
+Added Pin To Net: NetName=GND Pin=CONN1-1
+Added Pin To Net: NetName=+3.3V Pin=CONN1-2
+Added Pin To Net: NetName=nRST Pin=CONN1-3
+Added Pin To Net: NetName=BOOT Pin=CONN1-4
+Added Pin To Net: NetName=Rx Pin=CONN1-5
+Added Pin To Net: NetName=LED_PWM Pin=CONN1-6
